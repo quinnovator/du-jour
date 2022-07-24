@@ -1,3 +1,4 @@
+<!-- This component represents the landing page of the application. -->
 <script context="module" lang="ts">
 	export const prerender = true;
 </script>

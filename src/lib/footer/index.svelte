@@ -1,3 +1,4 @@
+<!-- This is the footer compoenet rendered in the main layout. -->
 <footer
 	class="w-screen mx-auto py-6 px-4 sm:px-6 sm:flex sm:items-center sm:justify-between lg:px-8"
 >

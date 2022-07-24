@@ -1,3 +1,4 @@
+<!-- This is the header component. -->
 <script lang="ts">
 	import Mark from '$lib/header/mark.svelte';
 </script>
