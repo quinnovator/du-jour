@@ -1,8 +1,16 @@
-# SvelteKit Starter
+# Du Jour - Project Planning for Freelancers
 
-This is a SvelteKit starter project with Vite, TailwindCSS, and TypeScript.
+This app allows freelancers to plan their projects and track their progress using Agile prinicples.
 
-## Usage
+### Key Features
+
+- Groom your features into components (epics) and individual stories
+- Break your work into sprints and organize with Kanban
+- Provide a place for your Product Owner to workshop new product ideas, and get feedback from you
+- Generate and send out weekly reports to your clients
+- System of Record for client billing
+
+### Usage
 
 To install dependencies, run `yarn`.
 
