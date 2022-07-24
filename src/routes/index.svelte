@@ -11,5 +11,5 @@
 </svelte:head>
 
 <section class="flex justify-center items-center py-24">
-	<h2 class="font-mono text-lg">Go forth and build great things.</h2>
+	<h2 class="font-mono text-lg">Coming soon. Stay tuned for updates.</h2>
 </section>
