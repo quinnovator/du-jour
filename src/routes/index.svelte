@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Project Room</title>
+	<title>Du Jour</title>
 	<meta
 		name="description"
 		content="A place for freelancers to plan, track bugs, report progress, and bill."

@@ -4,5 +4,5 @@
 
 <div class="h-16 flex">
 	<img class="h-full" src={boards} alt="Project Room" />
-	<h1 class="font-mono text-lg my-auto">PROJECT<br />ROOM</h1>
+	<h1 class="font-mono text-lg my-auto">DU<br />JOUR</h1>
 </div>
